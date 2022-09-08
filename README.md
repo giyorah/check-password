@@ -1,4 +1,4 @@
-# Check-Password
+# Check Password
 
 There are millions of real world passwords previously exposed in data breaches.
 
