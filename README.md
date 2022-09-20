@@ -17,7 +17,7 @@ This tool lets you check whether a password was exposed **locally**, using a [ha
 
 ```
 git clone https://github.com/giyorahy/check-password.git
-cd check-password
+cd check-password/src
 check_pass.py [-h] [-f FILE] leaked_passwords_file
 ```
 
